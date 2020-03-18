@@ -1,0 +1,6 @@
+v0.1 -- Scan for responcive hosts -- Sept 6
+v0.2 -- Scan non responcive hosts -- Sept 13
+v0.3 -- Scan non responcive hosts with non responcive hosts -- Sept 20
+v0.4 -- listen for responcive hosts -- Sept 17
+v0.5 -- listen for non responcive hosts -- Oct 4
+v0.6 -- Use Source Addresses from file -- Oct 11
